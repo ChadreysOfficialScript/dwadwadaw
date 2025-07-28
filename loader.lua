@@ -18,7 +18,7 @@ loader.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 
 local games = {
-	{ name = "Apocalypse Rising", link = "https://raw.githubusercontent.com/ChadreysOfficialScript/Ch4dr3y.xyz/refs/heads/main/Ch4dr3ybest.luas" },
+	{ name = "Apocalypse Rising", link = "https://raw.githubusercontent.com/ChadreysOfficialScript/Ch4dr3y.xyz/refs/heads/main/Ch4dr3ybest.luass" },
 	{ name = "Universal Aimbot ", link = "https://raw.githubusercontent.com/ChadreysOfficialScript/AimbotESP/refs/heads/main/lua" },
     { name = "Grow A Garden ", link = "https://raw.githubusercontent.com/aiminawp/acidHub/refs/heads/main/growAgarden.lua" },
     { name = "ForSaken", link = "https://raw.githubusercontent.com/aiminawp/acidHub/refs/heads/main/forsaken.lua" },
